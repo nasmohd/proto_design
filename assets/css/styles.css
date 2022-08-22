@@ -29,32 +29,32 @@ hr {
 
 
 /* 993 onwards */
-@media (min-width: 992px){
+/*@media (min-width: 992px){
 	#login_txt{
 		color: yellow;
 	}
-}
+}*/
 
 
 /* 769 to 992 */
-@media (max-width: 992px) {
+/*@media (max-width: 992px) {
   #login_txt{
   	color: red;
   }
-}
+}*/
 
 
 /* 577 to 768 */
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   #login_txt{
   	color: purple;
   }
-}
+}*/
 
 
 /* 576 going down */
-@media (max-width: 576px) {
+/*@media (max-width: 576px) {
   #login_txt{
   	color: pink;
   }
-}
+}*/
