@@ -4,7 +4,7 @@
 
 .input-border {
   border-radius: 40px;
-  border-color: #707070;
+  border-color: #707070 #707070 #707070 #707070;
 }
 
 .social > a {
@@ -23,34 +23,11 @@ hr {
 .col.mx-auto.d-flex.align-content-center {
 }
 
+.login-socials {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
 
-/* 993 onwards */
-/*@media (min-width: 992px){
-	#login_txt{
-		color: yellow;
-	}
-}*/
-
-
-/* 769 to 992 */
-/*@media (max-width: 992px) {
-  #login_txt{
-  	color: red;
-  }
-}*/
-
-
-/* 577 to 768 */
-/*@media (max-width: 768px) {
-  #login_txt{
-  	color: purple;
-  }
-}*/
-
-
-/* 576 going down */
-/*@media (max-width: 576px) {
-  #login_txt{
-  	color: pink;
-  }
-}*/
